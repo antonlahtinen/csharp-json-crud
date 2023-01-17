@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "58yO9As8C/Gnm1hhNedAvIJNM5SIl+e1YucRsn7z6pxTBg+oXFs0dWZ9kuUYj2N1yKtW+BBJD4wE/SBv+O49ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anton\\OneDrive\\Escritorio\\XAMK_Koulujutut\\1KEVÄT OLIO-OHJELMOINTI\\OLIO_KolmasPalautus\\OLIO_KolmasPalautus\\OLIO_KolmasPalautus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
