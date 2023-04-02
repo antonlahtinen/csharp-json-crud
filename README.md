@@ -1,6 +1,6 @@
-# json-kouluprojekti
+# C# CRUD Console App
 
-Basic JSON manipulation program using C#. You could add, update and delete information from JSON file.
+Basic C# CRUD app with JSON. You could create, read, update and delete information from JSON file.
 
 Technologies used:
 
